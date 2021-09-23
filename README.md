@@ -1,5 +1,5 @@
 # recasta integrations
-Integrations into external systems for our forever free cloud, using the free single target API. To enable as much as possible modularization we have split the plugins into two main streams:  
+Integrations into external systems for our forever free cloud, using the free single-target API. To enable as much as possible modularization we have split the plugins into two main streams:  
 
 * ### generic packages
    * [pkg](pkg)  
